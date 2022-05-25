@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rstudio and analytics.
 - 🌱 I’m currently learning SAS and Python.
 - 💞️ I’m looking to collaborate on portfolio project.
-- 📫 How to reach me ? You can use bilaldabbour@gmail.com
+- 📫 How to reach me ? On Twitter -> @Byllall
 
 <!---
 BilalDbb/BilalDbb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
